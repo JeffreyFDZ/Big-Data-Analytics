@@ -6,7 +6,7 @@ This repository contains two distinct but insightful data analysis projects, sho
 
 ---
 
-### 1. **Sales System Impact Analysis** (`Project 1 Final.ipynb`)
+### 1. **Sales System Impact Analysis** (`BDA - Part 1.ipynb`)
 
 This project evaluates the impact of a newly implemented sales tracking system introduced in 2023. It answers a critical business question:
 - **Impact Evaluation**: Assessing whether the adoption of the new system has significantly improved sales and profits.
@@ -17,7 +17,7 @@ This notebook highlights how data-driven insights can validate strategic busines
 
 ---
 
-### 2. **Staples Sales Analytics Report** (`Jeffrey_Fernandez_Raghav_Thondikulam_Practice3_Final.ipynb`)
+### 2. **Staples Sales Analytics Report** (`BDA - Part 2.ipynb`)
 
 This project focuses on analyzing and predicting sales and profits for the final quarter (Q4) of 2024. The report addresses the following key objectives:
 - **Sales and Profit Prediction**: Utilizing machine learning techniques, such as Linear Regression, to forecast total sales and profits.
