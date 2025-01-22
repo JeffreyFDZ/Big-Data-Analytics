@@ -4,6 +4,8 @@
 
 This repository contains two distinct but insightful data analysis projects, showcasing the application of data science techniques to real-world business challenges. Each project employs advanced analytics, data visualization, and predictive modeling to derive actionable insights.
 
+---
+
 ### 1. **Sales System Impact Analysis** (`Project 1 Final.ipynb`)
 
 This project evaluates the impact of a newly implemented sales tracking system introduced in 2023. It answers a critical business question:
